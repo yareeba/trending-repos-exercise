@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>GitHub Trends</title>
+        <title>Github Trending Repositories</title>
         <meta
           name="description"
           content="app for discovering trending repositories on GitHub"
