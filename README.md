@@ -1,4 +1,4 @@
-# VEED.IO exercise
+# GitHub Trending Repositories Exercise
 
 ## Getting Started
 
